@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: solderOverride
+  m_Controller: {fileID: 9100000, guid: 9428d9ad141cbb14aaa37e1d21e280ab, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 2fe0adccef8c1eb4dae95668dd27cc57, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6f7340b0f77d7b44490313d2dbda597c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c924c0fb684edb2499913080fc8197c6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7dfba2999f8eb1d41956ba2454040de5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f4e5db354268c6e41bca938237d4dbf3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 52a9e5e08412680479eb2d3f19a37456, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7dfba2999f8eb1d41956ba2454040de5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7dfba2999f8eb1d41956ba2454040de5, type: 2}
